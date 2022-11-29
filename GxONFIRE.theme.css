@@ -1,0 +1,41 @@
+/**
+ * @name         Reborn
+ * @description  Phoenix Theme Bundle: Transparent, fully customizable theme with multiple addons
+ * @author       GxONFIRE
+ * @version      1.5
+ * @donate       https://goo.gl/9S8VGb
+ * @source       https://github.com/monstrousdev/themes/theme-files/Reborn.theme.css
+ * @invite       TeRQEPb
+ * @authorId     
+ */
+
+/* IMPORT CSS FROM GITHUB */
+@import "https://monstrousdev.github.io/themes/phoenix-bundle/reborn.css";
+/*
+
+
+Registered: BREATH (THEME)
+
+===== CUSTOMIZABLE COLORS AND IMAGES =====
+*/
+
+:root {
+  --roundness: 50px; /* edit roundness of icons from 0px to 50px */
+ --main-color: #007dbd; /* Main Color */     
+  --hover-color: #03679b; /* Hover Color */
+  --home-color: #eee; /* Change home icon color */
+  --home-size: 24px; /* size of the home icon */
+  --shadow: rgba(0,0,0,.4); /* change to darken lighten, or set to transparent */
+ --background-image: url(https://i.hizliresim.com/bt7dub9.jpg); /* change background */
+  --background-blur: 3px; /* Main Background Blur */
+--popup-background: url(https://i.hizliresim.com/bt7dub9.jpg);  /* Background for popups and modals */
+  --background-darkness: 0.40; /* change the darkness of your background. 1 makes it completely black, 0 makes it like the original image */
+}
+
+
+/*
+---------------------------------------------------------------------------------------------------------------------------------------------
+===== Developed By GxONFIRE =====
+GxONFIRE
+---------------------------------------------------------------------------------------------------------------------------------------------
+*/
